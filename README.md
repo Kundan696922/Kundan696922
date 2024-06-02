@@ -19,7 +19,7 @@ Here are a few projects I've worked on:
 ### [Customer Satisfactory Survey Form](https://github.com/Kundan696922/Customer_satisfaction_survey_form.git)
 - Created a simple customer satisfaction survey form using HTML and CSS
 
-### [Tribute Page](https://github.com/yourusername/project2)](https://github.com/Kundan696922/Tribute_page.git)
+### [Tribute Page](https://github.com/Kundan696922/Tribute_page.git)
 - Created a tribute page for football legend Pelé using HTML/CSS. Features his biography and images, with responsive design.
 - Used HTML and CSS
 
