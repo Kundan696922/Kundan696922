@@ -1,6 +1,6 @@
 # Hi there, I'm Kundan Goyary 👋
 
-!Profile Views(https://komarev.com/ghpvc/?Kundan696922=yourusername&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?Kundan696922=Kundan696922&color=brightgreen)
 
 ## About Me
 
