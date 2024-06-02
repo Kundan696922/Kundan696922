@@ -26,7 +26,7 @@ Here are a few projects I've worked on:
 ## Education
 
 - **Central Institute of Technology,Kokrajhar** - B.Tech. in Computer Science and Engineering (Expected Graduation: 2025)
-- **THE REALITY PUBLIC SCHOOL,Kokrajharr** -  Central Board of Secondary Education, Assam (2019-2021)
+- **THE REALITY PUBLIC SCHOOL,Kokrajhar** -  Central Board of Secondary Education, Assam (2019-2021)
 - **Central Institute of Technology,Kokrajhar** -  Central Board of Secondary Education, Assam (2008-2019) 
 
 ## Contact Me
