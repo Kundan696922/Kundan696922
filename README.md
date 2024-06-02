@@ -25,15 +25,15 @@ Here are a few projects I've worked on:
 
 ## Education
 
-- **[Central Institute of Technology,Kokrajhar]** - B.Tech. in Computer Science and Engineering (Expected Graduation: [2025])
-- **[THE REALITY PUBLIC SCHOOL,Kokrajharr]** - B.S. in Software Engineering ([2019-2021])
-- **[Central Institute of Technology,Kokrajhar]** - B.S. in Software Engineering ([2008-2019]) 
+- **Central Institute of Technology,Kokrajhar** - B.Tech. in Computer Science and Engineering (Expected Graduation: 2025)
+- **THE REALITY PUBLIC SCHOOL,Kokrajharr** -  Central Board of Secondary Education, Assam (2019-2021)
+- **Central Institute of Technology,Kokrajhar** -  Central Board of Secondary Education, Assam (2008-2019) 
 
 ## Contact Me
 
 Feel free to reach out to me for collaboration or any queries!
 
-- **Email**: [kgoyary824@gmail.com]
+- **Email**: kgoyary824@gmail.com
 - **LinkedIn**: [Kundan Goyary](https://www.linkedin.com/in/kundan-goyary/)
 - **GitHub**: [Kundan696922](https://github.com/Kundan696922)
 
