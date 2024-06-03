@@ -1,4 +1,4 @@
-# Hi there, I'm Kundan Goyary 👋
+# Hi there, I'm Kundan Goyary <img src="GIF/Hi.gif" width="40px" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kundan696922&color=brightgreen)
 
