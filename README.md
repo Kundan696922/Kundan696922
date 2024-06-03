@@ -18,7 +18,6 @@ Feel free to reach out to me for collaboration or any queries!
 
 - **Email**: kgoyary824@gmail.com
 - [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kundan-goyary/)
-(https://www.linkedin.com/in/kundan-goyary/)
 - **GitHub**: [Kundan696922](https://github.com/Kundan696922)
 
 ## Stats
