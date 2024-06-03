@@ -6,7 +6,7 @@
 
 I'm a passionate front-end developer with a keen interest in creating visually appealing and user-friendly web interfaces. I enjoy bringing designs to life and constantly learning new technologies to enhance my development skills.
 
-github-contribution-grid-snake.svg
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
 ## Skills
 
