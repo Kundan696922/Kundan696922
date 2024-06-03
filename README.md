@@ -14,7 +14,7 @@ I'm a passionate front-end developer with a keen interest in creating visually a
 - **Back-End Development**: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - **Document Preparation**: ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
   
-## Contact Me
+## Connect with Me
 
 [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kundan-goyary/)
 
