@@ -1,4 +1,4 @@
-# Hi there, I'm Kundan Goyary ! ![HandGIF](https://github.com/Kundan696922/Kundan696922/assets/159406079/fc293739-5848-4a44-b39e-848221e23a1a)
+# Hi there, I'm Kundan Goyary 👋
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kundan696922&color=brightgreen)
