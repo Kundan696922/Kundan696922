@@ -12,23 +12,13 @@ I'm a passionate front-end developer with a keen interest in creating visually a
 - **Back-End Development**: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - **Document Preparation**: ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
   
-## Education
-
-**Central Institute of Technology,Kokrajhar** 
-- B.Tech. in Computer Science and Engineering (Expected Graduation: 2025)
-
-**THE REALITY PUBLIC SCHOOL,Kokrajhar** 
-- Central Board of Secondary Education, Assam (2019-2021)
-  
-**Don Bosco Higher Secondary School ,Kokrajhar** 
-- Central Board of Secondary Education, Assam (2008-2019) 
-
 ## Contact Me
 
 Feel free to reach out to me for collaboration or any queries!
 
 - **Email**: kgoyary824@gmail.com
-- **LinkedIn**: [Kundan Goyary](https://www.linkedin.com/in/kundan-goyary/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundan-goyary/)
+(https://www.linkedin.com/in/kundan-goyary/)
 - **GitHub**: [Kundan696922](https://github.com/Kundan696922)
 
 ## Stats
