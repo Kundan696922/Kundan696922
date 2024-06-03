@@ -17,7 +17,7 @@ I'm a passionate front-end developer with a keen interest in creating visually a
 Feel free to reach out to me for collaboration or any queries!
 
 - **Email**: kgoyary824@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundan-goyary/)
+- [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kundan-goyary/)
 (https://www.linkedin.com/in/kundan-goyary/)
 - **GitHub**: [Kundan696922](https://github.com/Kundan696922)
 
