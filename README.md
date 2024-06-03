@@ -1,8 +1,4 @@
-<h1 align="center">
-  <img src="GIF/Earth.gif" width="24px"/>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
-</h1>
+# Hi there, I'm Kundan Goyary ![Hi] https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWlxcm5kbGs4eHI2MHNmY2tyZ3R2Y3RpNWI5c3hoaHloOTZvZGVpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KGMzZvWa5su2O5LCVR/giphy.webp
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kundan696922&color=brightgreen)
 
