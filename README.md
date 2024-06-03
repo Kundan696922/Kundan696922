@@ -1,4 +1,5 @@
-# Hi there, I'm Kundan Goyary ![Hi] https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWlxcm5kbGs4eHI2MHNmY2tyZ3R2Y3RpNWI5c3hoaHloOTZvZGVpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KGMzZvWa5su2O5LCVR/giphy.webp
+# Hi there, I'm Kundan Goyary ! ![HandGIF](https://github.com/Kundan696922/Kundan696922/assets/159406079/fc293739-5848-4a44-b39e-848221e23a1a)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kundan696922&color=brightgreen)
 
