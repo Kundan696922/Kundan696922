@@ -23,7 +23,7 @@ I'm a passionate front-end developer with a interest in creating visually appeal
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kundan696922&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kundan696922&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kundan696922&langs_count=8)
 
 ## Fun Fact
 
