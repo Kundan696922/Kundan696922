@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a passionate front-end developer with a keen interest in creating visually appealing and user-friendly web interfaces. I enjoy bringing designs to life and constantly learning new technologies to enhance my development skills.
+I'm a passionate front-end developer with a interest in creating visually appealing and user-friendly web interfaces. I enjoy bringing designs to life and constantly learning new technologies to enhance my development skills.
 
 
 ## Skills
