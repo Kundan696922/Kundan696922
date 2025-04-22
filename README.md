@@ -14,9 +14,7 @@ I'm a passionate front-end developer with a interest in creating visually appeal
   
 ## Connect with Me
 
-[
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-          ](https://www.linkedin.com/in/kundan-goyary/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="60" height="60"/>](https://www.linkedin.com/in/kundan-goyary/)
 
 ## Stats
 
