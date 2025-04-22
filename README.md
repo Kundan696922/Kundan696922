@@ -7,15 +7,6 @@
 
 I'm a passionate front-end developer with a interest in creating visually appealing and user-friendly web interfaces. I enjoy bringing designs to life and constantly learning new technologies to enhance my development skills.
 
-
-## Skills
-
-- **Front-End Development**:![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-- **Back-End Development**: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- **Document Preparation**: ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
-
-
 ## 🚀 Tech Stack
 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/> </p>
@@ -23,7 +14,9 @@ I'm a passionate front-end developer with a interest in creating visually appeal
   
 ## Connect with Me
 
-[<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kundan-goyary/)
+[
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+          ](https://www.linkedin.com/in/kundan-goyary/)
 
 ## Stats
 
