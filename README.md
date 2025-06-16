@@ -31,6 +31,9 @@ I'm a passionate front-end developer with a interest in creating visually appeal
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kundan696922&langs_count=8&theme=vue-dark)
 
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kundan696922&repo=shopmate&theme=vue-dark)
+
+
 ## 💭 Fun Fact
 
 Besides coding, I love exploring new games and watching movies. Gaming helps me develop problem-solving skills and think creatively, while movies provide a great source of inspiration and relaxation after a day of coding.
