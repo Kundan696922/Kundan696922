@@ -31,7 +31,7 @@ I'm a passionate front-end developer with a interest in creating visually appeal
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kundan696922&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kundan696922&langs_count=8&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kundan696922&langs_count=8)
 
 
 ## 💭 Fun Fact
