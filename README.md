@@ -5,7 +5,7 @@
 
 ## 📄 About Me
 
-I'm a passionate front-end developer with a interest in creating visually appealing and user-friendly web interfaces. I enjoy bringing designs to life and constantly learning new technologies to enhance my development skills.
+I'm a passionate MERN stack developer skilled in building full-stack web applications with MongoDB, Express.js, React, and Node.js. I enjoy creating scalable backends, intuitive UIs, and continuously learning new technologies to deliver efficient, user-friendly solutions.
 
 ## 🚀 Tech Stack
 
@@ -15,10 +15,17 @@ I'm a passionate front-end developer with a interest in creating visually appeal
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="60" height="60"//>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="Latex" width="60" height="60"/>
+
+
+
+
 
   
 ## 🔗 Connect with Me
