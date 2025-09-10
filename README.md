@@ -29,14 +29,15 @@ I'm a passionate MERN stack developer skilled in building full-stack web applica
 ## 🔗 Connect with Me
 
 <a href="https://www.linkedin.com/in/kundan-goyary/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/linkedin.svg" alt="LinkedIn" width="36" height="36" style="vertical-align:middle; margin-right:10px;">
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/linkedin.svg" alt="LinkedIn" width="36" height="36" style="filter: invert(1); margin-right:15px;">
 </a>
 <a href="mailto:goyarykundan@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/envelope.svg" alt="Email" width="36" height="36" style="vertical-align:middle; margin-right:10px;">
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/envelope-fill.svg" alt="Email" width="36" height="36" style="filter: invert(1); margin-right:15px;">
 </a>
 <a href="https://kundangoyary.me/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/globe.svg" alt="Portfolio" width="36" height="36" style="vertical-align:middle;">
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/code-slash.svg" alt="Portfolio" width="36" height="36" style="filter: invert(1);">
 </a>
+
 
 
 
