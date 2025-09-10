@@ -21,12 +21,19 @@ I'm a passionate MERN stack developer skilled in building full-stack web applica
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="Latex" width="60" height="60"/>
 
-  
+
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundan-goyary/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kgoyary824@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://kundangoyary.me/)
+<a href="https://www.linkedin.com/in/kundan-goyary/">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="mailto:goyarykundan@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="40" height="40"/>
+</a>
+<a href="https://kundangoyary.me/">
+  <img src="https://cdn.simpleicons.org/googlechrome/000000" alt="Portfolio" width="40" height="40"/>
+</a>
+
 
 
 
