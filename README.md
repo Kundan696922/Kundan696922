@@ -28,9 +28,9 @@ I'm a passionate MERN stack developer skilled in building full-stack web applica
   
 ## 🔗 Connect with Me
 
-[[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="60" height="60"/>](https://www.linkedin.com/in/kundan-goyary/)  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="60" height="60"/>](mailto:goyarykundan@gmail.com)  
-[<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="60" height="60"/>](https://kundangoyary.me/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundan-goyary/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goyarykundan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kundangoyary.me/)
 
 
 ## 📊 GitHub Stats
