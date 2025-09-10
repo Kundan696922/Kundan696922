@@ -25,14 +25,15 @@ I'm a passionate MERN stack developer skilled in building full-stack web applica
 ## 🔗 Connect with Me
 
 <a href="https://www.linkedin.com/in/kundan-goyary/" target="_blank" rel="noopener noreferrer">
-  <img src="https://lucide.dev/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="filter: invert(1); margin-right:15px;">
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="filter: invert(1); margin-right:15px;">
 </a>
 <a href="mailto:goyarykundan@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://lucide.dev/icons/mail.svg" alt="Gmail" width="40" height="40" style="filter: invert(1); margin-right:15px;">
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/mail.svg" alt="Gmail" width="40" height="40" style="filter: invert(1); margin-right:15px;">
 </a>
 <a href="https://kundangoyary.me/" target="_blank" rel="noopener noreferrer">
-  <img src="https://lucide.dev/icons/code-2.svg" alt="Portfolio" width="40" height="40" style="filter: invert(1);">
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/code-2.svg" alt="Portfolio" width="40" height="40" style="filter: invert(1);">
 </a>
+
 
 
 
