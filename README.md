@@ -24,18 +24,9 @@ I'm a passionate MERN stack developer skilled in building full-stack web applica
   
 ## 🔗 Connect with Me
 
-<a href="https://www.linkedin.com/in/kundan-goyary/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/kundangoyary/assets/main/icons/linkedin-white.svg" alt="LinkedIn" width="40" height="40" style="margin-right:15px;">
-</a>
-<a href="mailto:goyarykundan@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/kundangoyary/assets/main/icons/mail-white.svg" alt="Gmail" width="40" height="40" style="margin-right:15px;">
-</a>
-<a href="https://kundangoyary.me/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/kundangoyary/assets/main/icons/external-link-white.svg" alt="Portfolio" width="40" height="40">
-</a>
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundan-goyary/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goyarykundan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kundangoyary.me/)
 
 
 
