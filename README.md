@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Kundan696922&color=brightgreen)
+  <img src="https://komarev.com/ghpvc/?username=Kundan696922&color=brightgreen" alt="Profile Views" />
 </div>
 
 ###
@@ -89,6 +89,6 @@
 
 ###
 
-<img src="https://kundan696922.github.io/Kundan696922/snake.svg" alt="Snake animation" />
+<img src="https://kundan696922.github.io/Kundan696922/assets/snake.svg" alt="Snake animation" />
 
 ###
