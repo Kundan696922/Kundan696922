@@ -21,22 +21,19 @@ I'm a passionate MERN stack developer skilled in building full-stack web applica
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="Latex" width="60" height="60"/>
 
-
-
-
-
   
 ## 🔗 Connect with Me
 
 <a href="https://www.linkedin.com/in/kundan-goyary/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/linkedin.svg" alt="LinkedIn" width="36" height="36" style="filter: invert(1); margin-right:15px;">
+  <img src="https://cdn.simpleicons.org/linkedin/white" alt="LinkedIn" width="40" height="40" style="margin-right:15px;">
 </a>
 <a href="mailto:goyarykundan@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/envelope-fill.svg" alt="Email" width="36" height="36" style="filter: invert(1); margin-right:15px;">
+  <img src="https://cdn.simpleicons.org/gmail/white" alt="Gmail" width="40" height="40" style="margin-right:15px;">
 </a>
 <a href="https://kundangoyary.me/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/code-slash.svg" alt="Portfolio" width="36" height="36" style="filter: invert(1);">
+  <img src="https://cdn.simpleicons.org/vercel/white" alt="Portfolio" width="40" height="40">
 </a>
+
 
 
 
