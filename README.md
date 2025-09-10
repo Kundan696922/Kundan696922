@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kundan696922.Kundan696922&right_color=lightseagreen"  />
+  ![Profile Views](https://komarev.com/ghpvc/?username=Kundan696922&color=brightgreen)
 </div>
 
 ###
