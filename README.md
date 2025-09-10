@@ -1,5 +1,6 @@
 <img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZlYmoxdDNrcDg4bnRvZ3Zzamdkbzd1MmI1anhraWJvMHA1aHg0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
+
 ###
 
 <h1 align="left">Hey 👋 Iam Kundan</h1>
@@ -20,7 +21,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since my first line of code<br>📚 Currently mastering full-stack development<br>🎯 Goals: Build impactful projects<br>🎲 Fun fact: I enjoy gym, movies, and gaming</p>
+<p align="left">🌐 From HTML to Mongo, loving the journey<br>📚 Currently mastering full-stack development<br>🎯 Goals: Build impactful projects<br>🎲 Fun fact: I enjoy gym, movies, and gaming</p>
 
 ###
 
