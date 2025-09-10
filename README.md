@@ -24,15 +24,16 @@ I'm a passionate MERN stack developer skilled in building full-stack web applica
   
 ## 🔗 Connect with Me
 
-<a href="https://www.linkedin.com/in/kundan-goyary/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="stroke:white; fill:white; margin-right:15px;">
+<a href="https://www.linkedin.com/in/kundan-goyary/">
+  <img src="https://cdn.simpleicons.org/linkedin/ffffff" alt="LinkedIn" width="40" height="40" style="margin-right:15px;">
 </a>
-<a href="mailto:goyarykundan@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/mail.svg" alt="Gmail" width="40" height="40" style="stroke:white; fill:white; margin-right:15px;">
+<a href="mailto:goyarykundan@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/ffffff" alt="Gmail" width="40" height="40" style="margin-right:15px;">
 </a>
-<a href="https://kundangoyary.me/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/external-link.svg" alt="Portfolio" width="40" height="40" style="filter: invert(1);">
+<a href="https://kundangoyary.me/">
+  <img src="https://cdn.simpleicons.org/external-link/ffffff" alt="Portfolio" width="40" height="40">
 </a>
+
 
 
 
