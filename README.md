@@ -89,6 +89,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kundan696922/Kundan696922/output/snake.svg" alt="Snake animation" />
+<img src="https://kundan696922.github.io/Kundan696922/snake.svg" alt="Snake animation" />
 
 ###
