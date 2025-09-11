@@ -29,7 +29,7 @@
 
 ###
 
-<h2 align="left" style="margin-top: 25px;">💻 I code with</h2>
+<h2 align="left" style="margin-top: 25px;">💻 Tech Stack</h2>
 
 ###
 
