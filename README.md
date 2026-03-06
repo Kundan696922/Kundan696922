@@ -86,19 +86,6 @@
   <img src="https://streak-stats.demolab.com?user=Kundan696922&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" style="margin-right: 15px; margin-bottom: 10px;" />
 </div>
 
-
-###
-
-<h2 align="left" style="margin-top: 25px;">🎧 Listening Now</h2>
-
-###
-
-<div align="left" style="margin-top: 15px;">
-  <a href="https://open.spotify.com/user/31lnqzskaep6yaztacywf5fmljhy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lnqzskaep6yaztacywf5fmljhy&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/Kundan696922/Kundan696922/output/snake.svg" alt="Snake animation" style="margin-top: 20px;" />
