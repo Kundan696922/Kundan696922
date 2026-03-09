@@ -1,12 +1,10 @@
-<img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZlYmoxdDNrcDg4bnRvZ3Zzamdkbzd1MmI1anhraWJvMHA1aHg0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="margin: 20px;" />
-
 ###
 
 <h1 align="left" style="margin-top: 30px;">Hey 👋 I am Kundan</h1>
 
 ###
 
-<p align="left" style="margin-top: 15px;">I am a MERN Stack Developer</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=F75C7E&width=435&lines=MERN+Stack+Developer;Full+Stack+Learner;Building+Cool+Projects" />
 
 ###
 
@@ -79,9 +77,9 @@
 ###
 
 <div align="left" style="margin-top: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kundan696922&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" style="margin-right: 15px; margin-bottom: 10px;" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kundan696922&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" style="margin-right: 15px; margin-bottom: 10px;" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kundan696922&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" style="margin-right: 15px; margin-bottom: 10px;" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Kundan696922&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" style="margin-right: 15px; margin-bottom: 10px;" />
   
   <img src="https://streak-stats.demolab.com?user=Kundan696922&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" style="margin-right: 15px; margin-bottom: 10px;" />
 </div>
